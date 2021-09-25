@@ -18,10 +18,10 @@ export default function Home() {
     try {
       await axios.get("/api/hello-world").then((res) => {
         setText(res.data.message);
-        setLoading(false);
-        console.log(res);
       });
     } catch (error) {
+      console.log(error);
+    } finally {
       setLoading(false);
     }
   }
