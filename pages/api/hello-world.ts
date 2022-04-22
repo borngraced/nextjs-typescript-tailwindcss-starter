@@ -5,7 +5,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
     try {
       res.json({
         message:
-          "Hello! Welcome to Nextjs, Typescript, Tailwind Starter script by github.com/boyinrust",
+          "Hello! Welcome to Nextjs, Typescript, Tailwind Starter script by github.com/borngraced",
         req: "POST Request",
       });
     } catch (error) {
@@ -15,7 +15,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
     try {
       res.json({
         message:
-          "Hello! Welcome to Nextjs, Typescript, Tailwind Starter script by github.com/boyinrust",
+          "Hello! Welcome to Nextjs, Typescript, Tailwind Starter script by github.com/borngraced",
         req: "GET Request",
       });
     } catch (error) {

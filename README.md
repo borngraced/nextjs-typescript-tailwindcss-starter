@@ -1,7 +1,7 @@
-# NextJS TypeScript and TailwindCSS Starter
+# Nextjs, Typescript && Tailwind Starter
  A starter template for nextjs, typescript and tailwindcss
 
-Run "npm install" to install required dependecies 
+Run "npm install" to install required dependecies and shoot!
 
 
-hope you start building great projects with this starter template ! ):
+goodluck building great projects with this starter template ! ):
